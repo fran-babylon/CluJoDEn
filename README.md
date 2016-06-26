@@ -1,5 +1,5 @@
 # CluJoDEn
-Clusters Job Distribution Engine
+##Clusters Job Distribution Engine
 
 Workflow
 
@@ -21,3 +21,5 @@ Workflow
   - gather results
   - merge and show
   
+# Getting Started
+1. 
